@@ -6,9 +6,9 @@
 
 ![Többrétegű1](Többrétegű.PNG)
 
-![Többrétegű2](Többrétegű 2.PNG)
+![Többrétegű2](Többrétegű_2.PNG)
 
-![WEBes](Webes alkalmazás.PNG)
+![WEBes](Webes_alkalmazás.PNG)
 
-![HTML és CSS](HTML és CSS.PNG)
+![HTML és CSS](HTML_és_CSS.PNG)
 
